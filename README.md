@@ -1,0 +1,1 @@
+# OCR-Deep-Learning-Algorithms-Building-Tanmay-s-Word-Search-using-Tesseract-and-OCR.Space-
